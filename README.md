@@ -1,6 +1,6 @@
 # Correlated Panic: A Random Matrix Theory Analysis of Cross-Pool Withdrawal Dynamics and Safety Module Behavior in the Kelp DAO Bridge Exploit
 
-*Aave Risk Community · May 2026 · [Full paper available on (https://github.com/pi-btc/rsETH/blob/main/Kelp_DAO_tex.pdf)]*
+*Skimmy's Working Paper for Aave Risk Community · May 2026 · [Full paper available on (https://github.com/pi-btc/rsETH/blob/main/Kelp_DAO_tex.pdf)]*
 
 ---
 
